@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
+- Solution URL: [Repository](https://github.com/aniru-dh21/Huddle-Landing-Page-With-Alternating-Feature-Blocks)
 - Live Site URL: [Live Solution]()
 
 ## My process
